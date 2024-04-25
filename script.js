@@ -27,6 +27,6 @@ window.addEventListener('load', function() {
 });
 
 
-// window.onload = function() {
-//   alert('For better experience use desktop or desktop mode in phone.');
-// };
+window.onload = function() {
+  alert('For better experience use desktop or desktop mode in phone.');
+};
